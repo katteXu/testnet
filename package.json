@@ -1,0 +1,8 @@
+{
+  "name": "testnet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/katteXu/testnet.git",
+  "author": "katte <417560450@qq.com>",
+  "license": "MIT"
+}
